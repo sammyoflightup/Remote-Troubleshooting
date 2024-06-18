@@ -12,10 +12,10 @@ I was able to remotely troubleshoot for a client and resolved the issues within 
 - Used remote desktop tools such as TeamViewer to gain direct access to Praise’s system, enabling hands-on troubleshooting.
 - Employed screen-sharing applications and shared documents (e.g., Google Docs) to collaborate effectively and provide real-time guidance.
 - Attempted to reproduce the issue in a controlled environment based on the information provided by Praise.
-- Analyzed system logs and error messages, either by accessing them directly or guiding Praise on how to retrieve and share them.
+- Analyzed system logs and error messages, guiding Praise on how to retrieve and share them.
 - Ensured Praise’s system was up-to-date with the latest software updates, antivirus definitions, and security patches.
-- Provided Praise with clear, step-by-step instructions to address the issue, supplementing instructions with screenshots or videos when necessary.
-- Utilized remote access to execute necessary commands or changes directly on Praise’s system, explaining each step to ensure transparency and understanding.
+- Provided Praise with clear, step-by-step instructions to address the issue, supplementing instructions with screenshots and videos when necessary.
+- Utilized remote access to execute necessary commands and changes directly on Praise’s system, explaining each step to ensure transparency and understanding.
 - Conducted thorough tests to confirm that the problem was resolved and ensured Praise performed similar tests on their end to validate the solution.
 - Advised Praise to monitor the system for a set period post-resolution, with instructions to report back if any issues recurred.
 - Created detailed documentation of the issue, the troubleshooting steps taken, and the final resolution, and saved this documentation for future reference.
